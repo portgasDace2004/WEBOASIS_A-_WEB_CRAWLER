@@ -15,7 +15,7 @@ WebOasis is a web crawler and information retrieval system that seamlessly integ
 
 ## Overview
 
-![WEBOASIS](https://github.com/portgasDace2004/WEBOASIS_A-_WEB_CRAWLER/assets/120649592/ebdbafb7-e8fa-47b4-bca5-2d684974452e)
+![WEBOASIS](https://github.com/portgasDace2004/WEBOASIS_A-_WEB_CRAWLER/assets/120649592/6a1b4cb6-d634-4320-a1d4-dfd5276726f4)
 
 
 WebOasis is designed to provide a comprehensive and user-friendly web search experience. It leverages Unsplash and Bing Images APIs for images and Wikipedia for textual content. The user interface is built using the Qt framework, offering a visually engaging platform.
@@ -83,4 +83,8 @@ This should resolve the issue and allow you to proceed without the error.
 - VEER VIKRAAM SINGH Project Author and Primary Contributor
 
 ## Snapshots
-![Working project](https://github.com/portgasDace2004/WEBOASIS_A-_WEB_CRAWLER/assets/120649592/1a3ce54e-acd7-4d77-8608-f53809deec57)
+![Working Project](https://github.com/portgasDace2004/WEBOASIS_A-_WEB_CRAWLER/assets/120649592/dec39b87-e5f9-47dc-a1a1-6a2a5ec4a477)
+![Working Project](https://github.com/portgasDace2004/WEBOASIS_A-_WEB_CRAWLER/assets/120649592/05c49c3c-f6b5-473f-8ff9-88bb955751d5)
+![Working Project](https://github.com/portgasDace2004/WEBOASIS_A-_WEB_CRAWLER/assets/120649592/76e30a93-6e61-42d4-9f50-b6ee2097491e)
+
+
