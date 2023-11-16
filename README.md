@@ -11,6 +11,7 @@ WebOasis is a web crawler and information retrieval system that seamlessly integ
 - [Building and Running](#building-and-running)
 - [Usage](#usage)
 - [Credits](#credits)
+- [SS OF WORKING PROJECT](#Snapshots)
 
 ## Overview
 
@@ -77,3 +78,6 @@ This should resolve the issue and allow you to proceed without the error.
 ## Credits
 
 - VEER VIKRAAM SINGH Project Author and Primary Contributor
+
+## Snapshots
+![Working Project](images/screenshot (194).png)
