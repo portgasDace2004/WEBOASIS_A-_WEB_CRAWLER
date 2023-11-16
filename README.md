@@ -80,4 +80,4 @@ This should resolve the issue and allow you to proceed without the error.
 - VEER VIKRAAM SINGH Project Author and Primary Contributor
 
 ## Snapshots
-![Working Project](images/screenshot (194).png)
+![Working Project](images/Screenshot (194).png)
